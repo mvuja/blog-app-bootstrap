@@ -1,0 +1,15 @@
+#contact{
+    padding: 200px 0 40px;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+#contact form{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+#contact form > *{
+    font: inherit;
+    padding: 10px;
+}

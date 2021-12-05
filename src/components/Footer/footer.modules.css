@@ -1,0 +1,22 @@
+.newsletter{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    gap: 20px;
+}
+.newsletter input{
+    width: 100%;
+}
+
+.footer{
+    padding: 50px 20px 0;
+}
+
+.footer ul li{
+    margin-bottom: 20px;
+}
+
+.footer ul li a{
+    text-decoration: none;
+    color: #1b1b1b;
+}
