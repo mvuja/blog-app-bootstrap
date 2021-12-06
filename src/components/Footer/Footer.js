@@ -21,19 +21,19 @@ export default function Footer() {
         <Col style={{background: '#fff', borderRadius: '10px'}}>
           <h5 style={{color: '#33A4D8', fontSize: '24px', fontWeight: '400', margin: '20px'}}>Quick Links</h5>
           <ul style={{listStyle: 'none'}}>
-            <li><a href="#">Duis bibendum</a></li>
-            <li><a href="#">Duis bibendum</a></li>
-            <li><a href="#">Duis bibendum</a></li>
-            <li><a href="#">Duis bibendum</a></li>
+            <li><a href="www.google.com" target="_blank">Duis bibendum</a></li>
+            <li><a href="www.google.com" target="_blank">Duis bibendum</a></li>
+            <li><a href="www.google.com" target="_blank">Duis bibendum</a></li>
+            <li><a href="www.google.com" target="_blank">Duis bibendum</a></li>
           </ul>
         </Col>
         <Col style={{background: '#fff', borderRadius: '10px', margin: '0 0 0 20px'}}>
           <h5 style={{color: '#33A4D8', fontSize: '24px', fontWeight: '400', margin: '20px'}}>Our Pages</h5>
           <ul style={{listStyle: 'none'}}>
-            <li><a href="#">Duis bibendum</a></li>
-            <li><a href="#">Duis bibendum</a></li>
-            <li><a href="#">Duis bibendum</a></li>
-            <li><a href="#">Duis bibendum</a></li>
+            <li><a href="www.google.com" target="_blank">Duis bibendum</a></li>
+            <li><a href="www.google.com" target="_blank">Duis bibendum</a></li>
+            <li><a href="www.google.com" target="_blank">Duis bibendum</a></li>
+            <li><a href="www.google.com" target="_blank">Duis bibendum</a></li>
           </ul>
         </Col>
       </Row>

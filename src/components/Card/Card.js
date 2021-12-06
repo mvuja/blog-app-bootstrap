@@ -2,7 +2,7 @@ import React from "react"
 import './card.modules.css'
 import Card from 'react-bootstrap/Card'
 
-// API KEY: 137049f91b254a0d8f4a3c95353c3935
+
 
 const CardComponent = (props) => {
 
